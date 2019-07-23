@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmcDll", "SmcDll\SmcDll.csproj", "{5624CAB8-2C61-43FB-9430-5F1AB8D560FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{0B12B09B-F791-4B58-9114-C91EDD7AC6B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|SmcWrapper x86 = Debug|SmcWrapper x86
+		Release|SmcWrapper x86 = Release|SmcWrapper x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5624CAB8-2C61-43FB-9430-5F1AB8D560FB}.Debug|SmcWrapper x86.ActiveCfg = Debug|x86
+		{5624CAB8-2C61-43FB-9430-5F1AB8D560FB}.Debug|SmcWrapper x86.Build.0 = Debug|x86
+		{5624CAB8-2C61-43FB-9430-5F1AB8D560FB}.Release|SmcWrapper x86.ActiveCfg = Release|x86
+		{5624CAB8-2C61-43FB-9430-5F1AB8D560FB}.Release|SmcWrapper x86.Build.0 = Release|x86
+		{0B12B09B-F791-4B58-9114-C91EDD7AC6B2}.Debug|SmcWrapper x86.ActiveCfg = Debug|x86
+		{0B12B09B-F791-4B58-9114-C91EDD7AC6B2}.Debug|SmcWrapper x86.Build.0 = Debug|x86
+		{0B12B09B-F791-4B58-9114-C91EDD7AC6B2}.Release|SmcWrapper x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFB62F99-1A94-49F1-BA2D-9F64DAA127ED}
+	EndGlobalSection
+EndGlobal
